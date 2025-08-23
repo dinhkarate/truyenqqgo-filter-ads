@@ -10,15 +10,12 @@
 ! Maintainer: dinhkarate
 ! Homepage: not now
 
-||mplmncb.com^
-||sv88.us^
-||qc.gem.win^
-||debet.fan^
-||vivu88.com^
-||lp.sun.win^
-||tip88.com^
-||red88.club^
-||ad.yo88.is^
-||mplmncb.com/banners-web/*$image
-||red88.club^
-truyenqqviet.com##.ads-banner
+0.0.0.0 mplmncb.com
+0.0.0.0 sv88.us
+0.0.0.0 qc.gem.win
+0.0.0.0 debet.fan
+0.0.0.0 vivu88.com
+0.0.0.0 lp.sun.win
+0.0.0.0 tip88.com
+0.0.0.0 red88.club
+0.0.0.0 ad.yo88.is
