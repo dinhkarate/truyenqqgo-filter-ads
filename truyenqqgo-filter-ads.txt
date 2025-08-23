@@ -1,0 +1,13 @@
+[Adblock Plus]
+! Version: 1
+! Title: truyenqqgo Filter Ads
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Entries: 1
+! Last modified: 2025-08-23T14:21:22+0000
+! Expires: 1 hours
+! License: MIT
+! Maintainer: dinhkarate
+! Homepage: not now
+
+||mplmncb.com^
